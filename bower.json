@@ -1,0 +1,22 @@
+{
+  "name": "BeciciClient",
+  "homepage": "https://github.com/nignjatov/BeciciClient",
+  "authors": [
+    "OrahKokos <marko.paroski.ns@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
